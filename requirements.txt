@@ -1,2 +1,3 @@
 wave
-pyaudio
+numpy
+argparse
